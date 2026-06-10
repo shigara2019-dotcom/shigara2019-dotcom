@@ -3,7 +3,7 @@
 
 ---
 
-I'm a software developer with 2+ years of experience, passionate about building products that actually work. Most of my work is open — you'll find real projects on my GitHub.
+I build things for the web under the alias VANNBO. 2+ years in, still obsessed with clean code and real solutions — check my repos to see what I mean.
 
 ## 🔧 Tech Stack
 
