@@ -1,4 +1,4 @@
-# Hey, I'm Mohamed El Aisaoui 👋
+# Hey, I'm Mohamed El Aissaoui 👋
 **VANNBO · Full Stack Developer · CS Student · Coffee Lover ☕**
 
 ---
